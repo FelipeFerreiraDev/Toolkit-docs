@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configurações da máquina/Git e Github/Assinatura de commits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Assinatura de commits"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configurações da máquina/Git e Github/Assinatura de commits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Assinatura de commits"
+              "title": "Links de saída"
             }
           },
           {
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configurações da máquina/Git e Github/Assinatura de commits.md",
+                "file": "Sem título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Assinatura de commits"
+              "title": "Sumário de Sem título"
             }
           }
         ]
@@ -170,7 +168,10 @@
   },
   "active": "c7636c275a95db23",
   "lastOpenFiles": [
+    "certs/githubToken",
+    "certs",
     "Configurações da máquina/Git e Github/Assinatura de commits.md",
+    "Sem título.md",
     "Configurações da máquina/Python/Pipenv.md",
     "Configurações da máquina/Git e Github/Git.md",
     "Configurações da máquina/Git e Github",
