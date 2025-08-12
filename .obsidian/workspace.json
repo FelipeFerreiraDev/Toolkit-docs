@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "71a1bf25fe28dce0",
+        "id": "6570bdcbad875f19",
         "type": "tabs",
         "children": [
           {
-            "id": "904524f3bdd07aee",
+            "id": "9e95243e166d979d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configurações da máquina/Git e Github/Assinatura de commits.md",
+                "file": "Configurações da máquina/Git e Github/Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assinatura de commits"
+              "title": "Git"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configurações da máquina/Git e Github/Assinatura de commits.md",
+                "file": "Configurações da máquina/Git e Github/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Assinatura de commits"
+              "title": "Links inversos para Git"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configurações da máquina/Git e Github/Assinatura de commits.md",
+                "file": "Configurações da máquina/Git e Github/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Assinatura de commits"
+              "title": "Links de saída para Git"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configurações da máquina/Git e Github/Assinatura de commits.md",
+                "file": "Configurações da máquina/Git e Github/Git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Assinatura de commits"
+              "title": "Sumário de Git"
             }
           }
         ]
@@ -168,12 +168,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "904524f3bdd07aee",
+  "active": "9e95243e166d979d",
   "lastOpenFiles": [
+    "Configurações da máquina/Git e Github/Assinatura de commits.md",
     "Sem título.md",
     "certs/githubToken",
     "certs",
-    "Configurações da máquina/Git e Github/Assinatura de commits.md",
     "Configurações da máquina/Python/Pipenv.md",
     "Configurações da máquina/Git e Github/Git.md",
     "Configurações da máquina/Git e Github",

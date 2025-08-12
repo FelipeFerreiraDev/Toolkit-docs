@@ -43,3 +43,10 @@ Se a mensagem `Are you sure you want to continue connecting (yes/no/[fingerprint
 Se funcionou corretamente deve aparecer a mensagem:
 `Hi SEU_USUARIO! You've successfully authenticated...`
 
+## Atenção
+É mais recomendado utilizar agora ssh para acessar o GitHub ao clonar repositórios.
+
+Caso você clone repositórios via `https`, sugiro rodar o comando a seguir para evitar ter que inserir a senha todas as vezes que realizar um commit
+```Bash
+git config --global credential.helper store
+```
