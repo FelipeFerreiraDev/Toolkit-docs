@@ -50,3 +50,13 @@ Caso você clone repositórios via `https`, sugiro rodar o comando a seguir para
 ```Bash
 git config --global credential.helper store
 ```
+
+**Observação:** Use o comando a seguir para salvar temporariamente
+```Bash
+# Por padrão 15 min
+git config --global credential.helper cache
+
+# Ou para setar um valor específico, exemplo 6 horas
+
+git config --global credential.helper 'cache --timeout=21600'
+```
