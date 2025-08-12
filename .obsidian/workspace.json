@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Configurações da máquina/Git e Github/Assinatura de commits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Assinatura de commits"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Configurações da máquina/Git e Github/Assinatura de commits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Assinatura de commits"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem título.md",
+                "file": "Configurações da máquina/Git e Github/Assinatura de commits.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sem título"
+              "title": "Sumário de Assinatura de commits"
             }
           }
         ]
@@ -166,12 +168,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c7636c275a95db23",
+  "active": "904524f3bdd07aee",
   "lastOpenFiles": [
+    "Sem título.md",
     "certs/githubToken",
     "certs",
     "Configurações da máquina/Git e Github/Assinatura de commits.md",
-    "Sem título.md",
     "Configurações da máquina/Python/Pipenv.md",
     "Configurações da máquina/Git e Github/Git.md",
     "Configurações da máquina/Git e Github",
