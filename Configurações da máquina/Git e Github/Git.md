@@ -1,4 +1,4 @@
-Para instalar:
+Guia de instalação:
 
 ``` Bash
 sudo apt update
